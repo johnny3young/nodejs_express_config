@@ -1,0 +1,21 @@
+{
+  "name": "nodejs_express_config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnny3young/nodejs_express_config.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnny3young/nodejs_express_config/issues"
+  },
+  "homepage": "https://github.com/johnny3young/nodejs_express_config#readme"
+}
