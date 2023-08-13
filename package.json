@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/johnny3young/nodejs_express_config/issues"
   },
-  "homepage": "https://github.com/johnny3young/nodejs_express_config#readme"
+  "homepage": "https://github.com/johnny3young/nodejs_express_config#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
